@@ -1,0 +1,10 @@
+How to run the Aimbot:
+
+[1] Locate the AIMBOT.exe file
+[2] Run the AIMBOT.exe file
+[3] If nothing pops up on the screen, then the script has been successfully injected!
+[4] Please run the AIMBOT.exe file before launching the game, or the game will automatically detect it and it will not work!
+
+If the aimbot does not work, then you need to wait 1 hour before running again. In the meantime, please keep your machine on. If you turn off your machine, then you will need to rerun the script and wait the hour.
+
+For more support, please contact aimmybottyproject@aimbot.com
